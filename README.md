@@ -1,14 +1,9 @@
 ### My progress for labs of CS:APP3e
 
-- [x] Lab0: c programming lab
-- [x] Lab1: data lab
-- [x] Lab2: bomb lab
-- [x] Lab3: attack lab
-- [x] Lab4: cache lab
-- [x] Lab5: shell lab
-- [x] Lab6: malloc lab
-- [x] Lab7: proxy lab
-- [x] Lab Hidden: proc lab (focus on process control and signal handling, similar to shell lab)
+- [] Lab0: c programming lab
+- [] Lab1: data lab
+- [] Lab2: bomb lab
+
 
 Lab materials are from [student website](http://csapp.cs.cmu.edu/3e/labs.html)
 
