@@ -26,12 +26,14 @@ choose spring 2022 because I am a CMU student!
 - [ ] Floating Point
   - [ ] reading 2.4
   - [ ] video
+[ ] Lab1: data lab
 - [ ] Machine Prog: Basics
   - [ ] reading 3.1-3.5
   - [ ] video
 - [ ] Machine Prog: Control
   - [ ] reading 3.6
   - [ ] video
+  [ ] Lab2: bomb lab
 - [ ] Machine Prog: Procedures
   - [ ] reading 3.7
   - [ ] video
@@ -41,6 +43,7 @@ choose spring 2022 because I am a CMU student!
 - [ ] Machine Prog: Advanced
   - [ ] reading 3.10
   - [ ] video
+[ ] Lab3: attack lab
 - [ ] Code Optimization
   - [ ] reading 5
   - [ ] video
@@ -50,6 +53,7 @@ choose spring 2022 because I am a CMU student!
 - [ ] Cache Memories
   - [ ] reading 6.4-6.7
   - [ ] video
+ [ ] Lab4: cache lab
 - [ ] Linking
   - [ ] reading 7
   - [ ] video
@@ -62,6 +66,7 @@ choose spring 2022 because I am a CMU student!
 - [ ] System Level I/O
   - [ ] reading 10
   - [ ] video
+- [ ] Lab5: shell lab
 - [ ] Virtual Memory: Concept
   - [ ] reading 9.1-9.6
   - [ ] video
@@ -74,12 +79,14 @@ choose spring 2022 because I am a CMU student!
 - [ ] Dynamic Memory Allocation: Advanced
   - [ ] reading 9.10-9.13
   - [ ] video
+- [ ] Lab6: malloc lab
 - [ ] Network Programming (Part I)
   - [ ] reading 11.1-11.4
   - [ ] video
 - [ ] Network Programming (Part II)
   - [ ] reading 11.5-11.6
   - [ ] video
+ - [ ] Lab7: proxy lab
 - [ ] Concurrent programming
   - [ ] reading 12.1-12.3
   - [ ] video
@@ -92,7 +99,6 @@ choose spring 2022 because I am a CMU student!
 - [ ] Thread-Level Parallelism
   - [ ] reading 12.6
   - [ ] video
-- [ ] Future of Computing I
+- [ ] Future of Computing
   - [ ] video
-- [ ] Future of Computing II
-  - [ ] video
+
