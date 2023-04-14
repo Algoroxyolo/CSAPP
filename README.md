@@ -26,14 +26,14 @@ choose spring 2022 because I am a CMU student!
 - [ ] Floating Point
   - [ ] reading 2.4
   - [ ] video
-[ ] Lab1: data lab
+- [ ] Lab1: data lab
 - [ ] Machine Prog: Basics
   - [ ] reading 3.1-3.5
   - [ ] video
 - [ ] Machine Prog: Control
   - [ ] reading 3.6
   - [ ] video
-  [ ] Lab2: bomb lab
+- [ ] Lab2: bomb lab
 - [ ] Machine Prog: Procedures
   - [ ] reading 3.7
   - [ ] video
@@ -43,7 +43,7 @@ choose spring 2022 because I am a CMU student!
 - [ ] Machine Prog: Advanced
   - [ ] reading 3.10
   - [ ] video
-[ ] Lab3: attack lab
+- [ ] Lab3: attack lab
 - [ ] Code Optimization
   - [ ] reading 5
   - [ ] video
@@ -53,7 +53,7 @@ choose spring 2022 because I am a CMU student!
 - [ ] Cache Memories
   - [ ] reading 6.4-6.7
   - [ ] video
- [ ] Lab4: cache lab
+ - [ ] Lab4: cache lab
 - [ ] Linking
   - [ ] reading 7
   - [ ] video
